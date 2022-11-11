@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and developing my skills
 - 💞️ I’m looking to collaborate on new challenges where I can expand my knowledge in the field of computer engineering
 - 📫 How to reach me ... 
-![image](https://user-images.githubusercontent.com/68342297/201422121-e784dc04-4320-4376-857c-8b1415cd8608.png)
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Laisa Islam Ani - Flaticon</a>
 https://www.instagram.com/ritvik_p2702/ | https://www.linkedin.com/in/vikas-patel2702/ | vikas.patel8934@gmail.com
 
 <!---
